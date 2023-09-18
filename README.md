@@ -6,7 +6,7 @@ Now we have:
 1. Stock price prediction (using ML algorithms to predict stock trend (works for symbol 'VOO' already)
 2. Dollar Cost Averaging strategy (DCA, given specific symbol, time frame, cycle (day, week or month etc.) initial amount and periodic cash in amount, return the ROI & IRR)
 3. Best MA strategy finding (heatmap with respective performance matrix) + yealy MA performance
-4. Relalancing stretagy
+4. Rebalancing stretagy
 5. Overall portfolio performance simulation
 6. Useful functions (beta / IRR calculators etc.)
 
